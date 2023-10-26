@@ -7,6 +7,6 @@ public class Main {
     }
 
     private static String getMessage() {
-        return "Hello qa_guru!";
+        return "Hello qa_guru! What's your name?";
     }
 }
